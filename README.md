@@ -1,2 +1,2 @@
-# Dream RF Radar-Hat
+# Radar-Hat
 mm-wave radar Pi Hat
